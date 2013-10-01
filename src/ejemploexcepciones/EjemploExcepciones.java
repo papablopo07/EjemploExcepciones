@@ -19,9 +19,9 @@ public class EjemploExcepciones {
             gestor.debitar("2", 130.00f);
             gestor.debitar("3", 140.00f);
       //  } catch (SaldoInsuficienteException ex) {
-      //      System.out.println(ex);
+      //      System.out.println(ex.getMessage();
       //  } catch (CuentaInexistenteException ex) {
-      //      System.out.println(ex);
+      //      System.out.println(ex.getMessage();
       //  } finally {
             System.out.println("Otras operaciones");
        // }
